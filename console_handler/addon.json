@@ -1,0 +1,14 @@
+{
+    "Addon Name": "Console Handler",
+    "Development": ["diopop1","ChatGPT" ],
+
+    "Description": "Console Handler is a Garry's Mod addon that allows players to execute console commands through chat and receive feedback about their execution.",
+    "Version": "1.0",
+    "Dependencies": "None",
+    "License": "This addon is released under the GPL-3.0 License. You are free to modify and distribute this addon, provided you attribute the original author.",
+    "Copyright": "© diopop1 - 2024",
+    "Credits": {"diopop1": "development","ChatGPT": "assistance in writing code"},
+    "Rights": "All rights reserved, but you can improve the addon and release it as an improved version but with me as the author of the original addon."
+    
+  }
+  
